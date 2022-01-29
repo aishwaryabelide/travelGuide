@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 700px;
+  background-color: #ffffff;
+}
+
+.package-name {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.package-details {
+  font-size: 16px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.package-icon {
+  width: 100%;
+}
